@@ -1,0 +1,15 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    text-align: center;
+}
+
+body form-login {
+    background-color: azure;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    border-radius: 16px;
+}
+
